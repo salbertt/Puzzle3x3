@@ -112,6 +112,7 @@ namespace Puzzle {
 
             Respuesta window1 = new Respuesta();
             window1.ShowDialog();
+            this.Close();
 
            
 
