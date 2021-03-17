@@ -117,7 +117,7 @@ namespace Puzzle {
                 }
                 else {
                     
-                    System.Console.WriteLine("There were {0} lines.", counter);
+                    System.Console.WriteLine("Se expandieron {0} estados.", counter);
                     // Suspend the screen.  
                     System.Console.ReadLine();
                 }
